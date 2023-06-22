@@ -2,8 +2,6 @@
 
 [![image](https://img.shields.io/pypi/v/assistorg-api.svg)](https://pypi.python.org/pypi/assistorg-api/)
 
-[![image](https://img.shields.io/travis/montesclarosglennbenedict/assistorg-api.svg)](https://travis-ci.com/montesclarosglennbenedict/assistorg-api)
-
 [![Documentation Status](https://readthedocs.org/projects/assistorg-api/badge/?version=latest)](https://assistorg-api.readthedocs.io/en/latest/?version=latest)
 
 Unofficial API wrapper for ASSIST.org\'s API. UNRELEASED.
