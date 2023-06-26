@@ -1,13 +1,13 @@
 # ASSIST API Wrapper
 
-[![image](https://img.shields.io/pypi/v/assistorg-api.svg)](https://pypi.python.org/pypi/assistorg-api/)
+[![image](https://img.shields.io/pypi/v/assistorgapi.svg)](https://pypi.python.org/pypi/assistorgapi/)
 
-[![Documentation Status](https://readthedocs.org/projects/assistorg-api/badge/?version=latest)](https://assistorg-api.readthedocs.io/en/latest/?version=latest)
+[![Documentation Status](https://readthedocs.org/projects/assistorgapi/badge/?version=latest)](https://assistorgapi.readthedocs.io/en/latest/?version=latest)
 
 Unofficial API wrapper for ASSIST.org\'s API. UNRELEASED.
 
 -   Free software: MIT license
--   Documentation: <https://assistorg-api.readthedocs.io>.
+-   Documentation: <https://assistorgapi.readthedocs.io>.
 
 ## Features
 

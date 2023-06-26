@@ -1,15 +1,15 @@
 #!/usr/bin/env python
 
-"""Tests for `assist_api_wrapper` package."""
+"""Tests for `assistorgapi` package."""
 
 
 import unittest
 
-from assist_api_wrapper import assist_api_wrapper
+from assistorgapi import assistorgapi
 
 
-class TestAssist_api_wrapper(unittest.TestCase):
-    """Tests for `assist_api_wrapper` package."""
+class TestAssistorgapi(unittest.TestCase):
+    """Tests for `assistorgapi` package."""
 
     def setUp(self):
         """Set up test fixtures, if any."""

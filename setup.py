@@ -17,15 +17,15 @@ requirements = []
 test_requirements = []
 
 setup(
-    name='assistorg-api',
-    version='0.0.3',
+    name='assistorgapi',
+    version='0.0.4',
     description="Unofficial API wrapper for ASSIST.org's API.",
     long_description=readme + '\n\n' + history,
     long_description_content_type='text/markdown',
     author="Glenn Benedict Montesclaros",
     author_email='montesclarosglennbenedict@gmail.com',
-    url='https://github.com/montesclarosglennbenedict/assistapi-org',
-    packages=find_packages(include=['assistapi-org', 'assistapi.*']),
+    url='https://github.com/montesclarosglennbenedict/assistorgapi',
+    packages=find_packages(include=['assistorgapi', 'assistorgapi.*']),
     python_requires='>=3.6',
     install_requires=requirements,
     tests_require=test_requirements,

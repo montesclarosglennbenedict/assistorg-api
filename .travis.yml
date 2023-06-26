@@ -24,5 +24,5 @@ deploy:
     secure: what is this
   on:
     tags: true
-    repo: montesclarosglennbenedict/assist_api_wrapper
+    repo: montesclarosglennbenedict/assistorgapi
     python: 3.8
