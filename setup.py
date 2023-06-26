@@ -4,11 +4,13 @@
 
 from setuptools import setup, find_packages
 
-with open('README.md', 'r', encoding='utf-8') as readme_file:
+with open('./README.md', 'r', encoding='utf-8') as readme_file:
     readme = readme_file.read()
 
-with open('HISTORY.md') as history_file:
-    history = history_file.read()
+#with open('./HISTORY.md', 'r', encoding='utf-8') as history_file:
+#    history = history_file.read()
+
+history = "there is no history, test"
 
 requirements = []
 
@@ -16,14 +18,14 @@ test_requirements = []
 
 setup(
     name='assistorg-api',
-    version='0.0.2',
+    version='0.0.3',
     description="Unofficial API wrapper for ASSIST.org's API.",
     long_description=readme + '\n\n' + history,
     long_description_content_type='text/markdown',
     author="Glenn Benedict Montesclaros",
     author_email='montesclarosglennbenedict@gmail.com',
-    url='https://github.com/montesclarosglennbenedict/assist_api_wrapper',
-    packages=find_packages(include=['assist_api_wrapper', 'assist_api_wrapper.*']),
+    url='https://github.com/montesclarosglennbenedict/assistapi-org',
+    packages=find_packages(include=['assistapi-org', 'assistapi.*']),
     python_requires='>=3.6',
     install_requires=requirements,
     tests_require=test_requirements,
