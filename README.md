@@ -4,7 +4,7 @@
 
 [![Documentation Status](https://readthedocs.org/projects/assistorgapi/badge/?version=latest)](https://assistorgapi.readthedocs.io/en/latest/?version=latest)
 
-Unofficial API wrapper for ASSIST.org\'s API. UNRELEASED.
+Unofficial API wrapper for ASSIST.org\'s API. UNRELEASED. DO NOT INSTALL THIS PACKAGE UNLESS YOU HAVE CONTACTED ME.
 
 -   Free software: MIT license
 -   Documentation: <https://assistorgapi.readthedocs.io>.
