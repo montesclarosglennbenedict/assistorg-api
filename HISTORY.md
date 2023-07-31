@@ -1,5 +1,8 @@
 # History
 
+0.0.13 (2023-07-29) \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+-   Fixed the settings function.
+
 0.0.12 (2023-07-18) \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 -   Made said function accessible in __init__.py.
 
