@@ -18,7 +18,7 @@ test_requirements = []
 
 setup(
     name='assistorgapi',
-    version='0.0.13',
+    version='0.1.0',
     description="Unofficial API wrapper for ASSIST.org's API.",
     long_description=readme + '\n\n' + history,
     long_description_content_type='text/markdown',
