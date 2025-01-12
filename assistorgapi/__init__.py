@@ -2,7 +2,7 @@
 
 __author__ = """Glenn Benedict Montesclaros"""
 __email__ = 'montesclarosglennbenedict@gmail.com'
-__version__ = '0.1.0'
+__version__ = '0.1.7'
 
 from .academic_years import get_academic_years
 from .agreements import get_agremeents, get_agreements_categories

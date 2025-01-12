@@ -5,6 +5,6 @@ def get_academic_years():
     response = requests.get(url)
     
     if response.status_code == 200:
-        return response.text
+        return response
     else:
         return None
