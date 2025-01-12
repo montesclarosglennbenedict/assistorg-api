@@ -18,12 +18,14 @@ test_requirements = []
 
 setup(
     name='assistorgapi',
-    version='0.1.0',
+    version='0.1.7',
     description="Unofficial API wrapper for ASSIST.org's API.",
     long_description=readme + '\n\n' + history,
     long_description_content_type='text/markdown',
     author="Glenn Benedict Montesclaros",
     author_email='montesclarosglennbenedict@gmail.com',
+    maintainer='itwsaya',
+    maintainer_email='itwsaya@googlegroups.com',
     url='https://github.com/montesclarosglennbenedict/assistorgapi',
     packages=find_packages(include=['assistorgapi', 'assistorgapi.*']),
     python_requires='>=3.6',
